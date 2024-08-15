@@ -1,4 +1,4 @@
-w = 12
+w = 08
 s = 13
 m = 14
 alphabets = input("Enter alphabet:")
